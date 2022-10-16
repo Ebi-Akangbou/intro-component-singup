@@ -25,7 +25,7 @@ Check the folder screenshot for both mobile and desktop view.
 
 ### Links
 
-- Codesand Box : [Add solution URL here](https://lb9y50.csb.app/)
+- Codesand Box : [solution URL here](https://lb9y50.csb.app/)
 - Live Site URL: (https://vercel.com/ebi-akangbou)
 
 ## My process
