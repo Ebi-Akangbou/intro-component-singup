@@ -20,8 +20,7 @@ Your users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-Check the folder screenshot for both mobile and desktop view.
+![](./screenshot.png)
 
 ### Links
 
